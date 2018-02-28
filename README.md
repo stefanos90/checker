@@ -6,7 +6,7 @@ Go to your php.ini file and remove the ; mark from the beginning of the followin
 ;extension=php_curl.dll
 
 Also install curl
-# apt-get install php-curl
+$ apt-get install php-curl
 
 Or if you're using the old PHP5
-# apt-get install php5-curl
+$ apt-get install php5-curl
